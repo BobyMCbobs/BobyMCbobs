@@ -2,7 +2,7 @@
 
 #### 🔎 find me
 
-- 🕸️  **Website**: https://blog.calebwoodbine.com/about
+- 🕸️  **Website**: https://calebwoodbine.nz/about
 - 🤝 **Fediverse (Mastodon)**: https://mastodon.nz/@calebwoodbine
 - 🦤  **bird site**: https://twitter.com/BobyMCbobs
 - 🦊 **GitLab**: https://gitlab.com/BobyMCbobs
