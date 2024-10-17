@@ -5,6 +5,7 @@
 - 🕸️  **Website**: https://calebwoodbine.nz/about
 - 🤝 **Fediverse (Mastodon)**: https://mastodon.nz/@calebwoodbine
 - 🦤  **bird site**: https://twitter.com/BobyMCbobs
+- 📥 **Linkedin**: https://www.linkedin.com/in/caleb-woodbine-906595308
 - 🦊 **GitLab**: https://gitlab.com/BobyMCbobs
 - 🔊 **music**: https://isolaet.com
 
